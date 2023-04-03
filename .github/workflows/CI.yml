@@ -37,3 +37,5 @@ jobs:
         with:
               name: My Docs
               path: /tmp/docs
+              
+    CI
